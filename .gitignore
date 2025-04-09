@@ -16,3 +16,6 @@
 # Local environment
 .env
 .vs/
+vendor/
+node_modules/
+*.log
